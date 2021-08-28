@@ -91,5 +91,6 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 وضعیت نوشتن من
 ![Untitled](https://user-images.githubusercontent.com/73029696/131231523-3b8cd85a-9506-4bed-9c64-d66d57f0d7dc.png)
 
+English soon
 
 ❤
