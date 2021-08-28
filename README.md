@@ -83,4 +83,8 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 اگه مشکلی ، سوالی یا کمکی خواستید میتونید از راه های زیر با من در ارتباط باشید <br>
 * [Email](https://devevil.xyz/contact)
 * Discord : DevEvil#8745
-* [Discord Server](https://discord.gg/jsQ9UP7kCA)
+* [Discord Server](https://discord.gg/jsQ9UP7kCA) 
+
+دانلود تم من : [اینجا کلیک کنید](https://betterdiscord.app/theme?id=412) <br>
+
+❤
