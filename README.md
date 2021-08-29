@@ -1,3 +1,16 @@
+<div align="center">
+ <h1>How to create a Discord theme</h1> <br>
+ <h1>چطوری یک تم دیسکورد بسازیم</h1> <br>
+
+Languages : <br>
+[English](https://github.com/DevEvil99/How-To-A-Create-BD-Theme#eng) <br>
+[Persian/Farsi](https://github.com/DevEvil99/How-To-A-Create-BD-Theme#fa) 
+</div>
+<br>
+<br>
+<br>
+<br>
+<section id="fa">
 <div dir="auto">
 <img src="https://cdn.discordapp.com/attachments/468141324906921984/881258359557345380/header.png" /> <br>
 <div align="center">
@@ -91,6 +104,98 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 وضعیت نوشتن من
 ![Untitled](https://user-images.githubusercontent.com/73029696/131231523-3b8cd85a-9506-4bed-9c64-d66d57f0d7dc.png)
 
-English soon
+❤
+</section>
+
+![logo2](https://cdn.discordapp.com/attachments/468141324906921984/881522240896790569/header2.png)
+
+<section id="eng">
+<div dir="auto">
+<div align="center">
+<---------------------------------------------English---------------------------------------------> <br>
+A document to create a discord theme 😀 <br>
+Learn how to create a theme for Discord <br>
+Before we begin, I must say that I am teaching you what I know and I have no claim 😃❤
+</div>
+
+# Prerequisites 📃
+* [BetterDiscord](https://betterdiscord.app/)
+* [Code editor | My suggestion : Visual Studio Code](https://code.visualstudio.com/download) <br>
+What is Better Discord? BetterDiscord (BD) In short, a client for Discord that allows us to install themes and plugins on Discord
+
+# BetterDiscord installation tutorial ❗
+
+https://user-images.githubusercontent.com/73029696/131230139-ac3a1b8d-b30c-482a-a32c-db195bdabb0b.mp4
+
+# Before we start ❗
+In order for us to create a theme, we have to style the discord elements. Now, how do we find these elements 🤔 <br>
+To find the elements, we have to hold the buttons below
+* Windows : ``Ctrl+Shift+I``
+* Mac : ``⌥+⌘+I`` <br>
+After holding these buttons, the inspector page will open for you
+
+![Untitled](https://user-images.githubusercontent.com/73029696/131230398-63dc2325-552a-409e-b320-fe8bdbfa4a66.png)
+
+When this page opens, you have to press ``Ctrl+Shift+C`` to be able to click on the elements 
+
+https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-8245-a90ca156124b.mp4
+
+As you can see, we have now got a class of icons on the chat input
+* icon-3D60ES <br>
+And so by clicking on different elements we can find their classes
+
+# Creating theme file 📃
+To create a theme file, we need to go to the BD theme folder, there are two ways
+1. Open it from Discord <br><br>
+![Untitled](https://user-images.githubusercontent.com/73029696/131230809-7aaa9425-a705-407e-adde-1a428fe101ef.png)
+![Untitled2](https://user-images.githubusercontent.com/73029696/131230815-88dd3c77-ab40-4e48-bccf-03ceaa59a5b1.png) <br>
+2. Normal ``C:\Users\username\AppData\Roaming\BetterDiscord\themes`` <br>
+After entering the theme folder, we need to create the theme file <br>
+Note : Your theme file must have ``.theme`` <br>
+Example : ``Amozesh.theme.css`` <br>
+You can use ``css`` and ``sass`` to create the theme
+
+# Coding 💻
+Well, now that we have learned everything and created the file, we will enter the file <br>
+You must put the following code in the beginning of your file code, otherwise the theme will not work <br>
+```css
+/**
+  * @name Dark+ Theme Name
+  * @author DevEvil#8745 Theme Author
+  * @version Dark+1 Theme Version
+  * @description Highly customized dark and purple theme for Discord  Theme Description
+  * @authorId 468132563714703390 Theme Author Discord ID
+  * @authorLink https://devevil.xyz Theme Author Link
+  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme Source Code Link
+  * @website https://devevil.xyz Website
+  * @invite jsQ9UP7kCA Support Server
+*/
+```
+Necessary
+* @name
+* @version
+* @description <br>
+
+Now we write our first code <br>
+We copy the element and style it <br>
+![Untitled](https://user-images.githubusercontent.com/73029696/131231225-a594705f-e2ae-4291-b02e-122a086f0b4e.png) <br>
+
+Result <br> 
+![Untitled2](https://user-images.githubusercontent.com/73029696/131231231-e5f420bf-dd1f-4e5f-acc9-406d0a1a2522.png) <br>
+
+We made our own theme so easily 😀 <br>
+There is a lot you can do with Discord, it depends on your taste. If you know CSS, you can do a lot of things such as changing icons, giving animation to the elements, changing the location of elements, and so on <br>
+Thank you for following me so far 😀❤ <br>
+
+If you have a problem, question or need help, you can contact me in the following ways
+* [Email](https://devevil.xyz/contact)
+* Discord : DevEvil#8745
+* [Discord Server](https://discord.gg/jsQ9UP7kCA) <br><br>
+
+Download my theme : [Click here](https://betterdiscord.app/theme?id=412) <br>
 
 ❤
+
+
+ 
+</section>
