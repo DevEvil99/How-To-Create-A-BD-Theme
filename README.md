@@ -3,8 +3,8 @@
  <h1>چطوری یک تم دیسکورد بسازیم</h1> <br>
 
 Languages : <br>
-[English](https://github.com/DevEvil99/How-To-A-Create-BD-Theme#eng) <br>
-[Persian/Farsi](https://github.com/DevEvil99/How-To-A-Create-BD-Theme#fa) 
+[English](https://github.com/DevEvil99/How-To-Create-A-BD-Theme#eng) <br>
+[Persian/Farsi](https://github.com/DevEvil99/How-To-Create-A-BD-Theme#fa) 
 </div>
 <br>
 <br>
