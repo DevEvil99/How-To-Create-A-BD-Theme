@@ -104,13 +104,19 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 
 ❤
 </section>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+<---------------------------------------------English---------------------------------------------> <br> <br>
+ </div>
 
 ![logo2](https://cdn.discordapp.com/attachments/468141324906921984/881874343867600906/banner2-min.png)
 
 <section id="eng">
 <div dir="auto">
 <div align="center">
-<---------------------------------------------English---------------------------------------------> <br>
 A document to create a discord theme 😀 <br>
 Learn how to create a theme for Discord <br>
 Before we begin, I must say that I am teaching you what I know and I have no claim 😃❤
