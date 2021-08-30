@@ -12,7 +12,7 @@ Languages : <br>
 <br>
 <section id="fa">
 <div dir="auto">
-<img src="https://cdn.discordapp.com/attachments/468141324906921984/881258359557345380/header.png" /> <br>
+<img src="https://cdn.discordapp.com/attachments/468141324906921984/881874332928847892/banner-min.png" /> <br>
 <div align="center">
 
 # یک داکیومنت ساخت تم دیسکورد برای شما 😀 
@@ -105,7 +105,7 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 ❤
 </section>
 
-![logo2](https://cdn.discordapp.com/attachments/468141324906921984/881522240896790569/header2.png)
+![logo2](https://cdn.discordapp.com/attachments/468141324906921984/881874343867600906/banner2-min.png)
 
 <section id="eng">
 <div dir="auto">
