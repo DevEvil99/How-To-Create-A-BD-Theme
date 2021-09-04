@@ -99,7 +99,9 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 * Discord : DevEvil#8745
 * [Discord Server](https://discord.gg/jsQ9UP7kCA) 
 
-دانلود تم من : [اینجا کلیک کنید](https://betterdiscord.app/theme?id=412) <br>
+دانلود تم های من : <br>
+[Dark+](https://betterdiscord.app/theme/Dark%2B) <br>
+[Oceab](https://betterdiscord.app/theme/Ocean)
 
 
 ❤
@@ -196,7 +198,9 @@ If you have a problem, question or need help, you can contact me in the followin
 * Discord : DevEvil#8745
 * [Discord Server](https://discord.gg/jsQ9UP7kCA) <br><br>
 
-Download my theme : [Click here](https://betterdiscord.app/theme?id=412) <br>
+Download my themes : <br>
+[Dark+](https://betterdiscord.app/theme?id=412) <br>
+[Ocean](https://betterdiscord.app/theme/Ocean)
 
 ❤
 
