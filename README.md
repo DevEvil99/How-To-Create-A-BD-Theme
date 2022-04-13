@@ -101,7 +101,8 @@ https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-
 
 دانلود تم های من : <br>
 [Dark+](https://betterdiscord.app/theme/Dark%2B) <br>
-[Oceab](https://betterdiscord.app/theme/Ocean)
+[Ocean](https://betterdiscord.app/theme/Ocean) <br>
+[Neptune](https://betterdiscord.app/theme/Neptune) 
 
 
 ❤
@@ -200,7 +201,8 @@ If you have a problem, question or need help, you can contact me in the followin
 
 Download my themes : <br>
 [Dark+](https://betterdiscord.app/theme?id=412) <br>
-[Ocean](https://betterdiscord.app/theme/Ocean)
+[Ocean](https://betterdiscord.app/theme/Ocean) <br>
+[Neptune](https://betterdiscord.app/theme/Neptune) 
 
 ❤
 
