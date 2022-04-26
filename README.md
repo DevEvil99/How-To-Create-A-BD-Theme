@@ -37,9 +37,8 @@ https://user-images.githubusercontent.com/73029696/131230139-ac3a1b8d-b30c-482a-
 * Mac : ``⌥+⌘+I``  <br>
 بعد از زدن این دکمه ها صفحه ی inspector برای شما باز میشه
 
-![Untitled](https://user-images.githubusercontent.com/73029696/131230398-63dc2325-552a-409e-b320-fe8bdbfa4a66.png)
 
-وقتی این صفحه باز شد دکمه ی ``Ctrl+Shift+C`` رو باید بزنید تا بتونید روی المنت ها کلیک کنید
+وقتی صفحه باز شد دکمه ی ``Ctrl+Shift+C`` رو باید بزنید تا بتونید روی المنت ها کلیک کنید
 
 
 
@@ -141,9 +140,8 @@ To find the elements, we have to hold the buttons below
 * Mac : ``⌥+⌘+I`` <br>
 After holding these buttons, the inspector page will open for you
 
-![Untitled](https://user-images.githubusercontent.com/73029696/131230398-63dc2325-552a-409e-b320-fe8bdbfa4a66.png)
 
-When this page opens, you have to press ``Ctrl+Shift+C`` to be able to click on the elements 
+When page opens up, you have to press ``Ctrl+Shift+C`` to be able to click on the elements 
 
 https://user-images.githubusercontent.com/73029696/131230597-dcd22461-15a7-461e-8245-a90ca156124b.mp4
 
