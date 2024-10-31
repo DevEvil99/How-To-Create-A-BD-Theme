@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/8062abf0-6bd3-4319-9627-8e8df8a00a93)
-
 ## How to Create a Custom Theme for Discord 😄
 
 ### Overview
