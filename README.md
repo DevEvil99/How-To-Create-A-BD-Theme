@@ -49,9 +49,10 @@ To set up your theme file, follow these steps:
 1. **Locate the BetterDiscord Themes Folder**  
    - Option 1: Open Discord > Go to BetterDiscord settings > Open the themes folder.
    
-     ![Opening Theme Folder](https://user-images.githubusercontent.com/73029696/131230809-7aaa9425-a705-407e-adde-1a428fe101ef.png)
-     ![Opening Theme Folder 2](https://user-images.githubusercontent.com/73029696/131230815-88dd3c77-ab40-4e48-bccf-03ceaa59a5b1.png)
-    *(Note: These images are old, and some things may have changed since then.)*
+     ![image](https://github.com/user-attachments/assets/020ec6de-dbac-4758-a89d-2a57cc7eec91)
+
+     ![image](https://github.com/user-attachments/assets/4fb32e31-6f19-44f3-a18f-8b3e39db524b)
+
    
    - Option 2: Open the folder directly by navigating to `C:\Users\YourUsername\AppData\Roaming\BetterDiscord\themes`
 
